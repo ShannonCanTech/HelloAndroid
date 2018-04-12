@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity Contact Information App</string>
+    <string name="infoLine1">Udacity</string>
+    <string name="infoLine2">2465 Latham St</string>
+    <string name="infoLine3">Mountain View, CA 94043</string>
+    <string name="infoLine4">650-555-5555</string>
+</resources>
